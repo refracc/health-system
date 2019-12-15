@@ -1,0 +1,68 @@
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Stewart\Desktop\C#\Health System\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+H:\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+H:\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+H:\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.dll
+H:\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+H:\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+H:\health-system\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\health-system\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+H:\health-system\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+H:\health-system\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+H:\cw2\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\cw2\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+H:\cw2\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+H:\cw2\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40345422\My Profile\Downloads\hs-master\health-system-master\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
